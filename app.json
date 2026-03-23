@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ReplyAI",
+    "slug": "ReplyAI",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.runnr07.ReplyAI"
+    }
+  }
+}
