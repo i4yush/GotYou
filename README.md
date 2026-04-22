@@ -1,1 +1,1 @@
-Trying best to completed this project :P
+Trying best to complete this project :P
